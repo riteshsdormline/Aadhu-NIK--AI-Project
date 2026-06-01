@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "d074efd1-624e-47cd-862e-bba3dbf69efa")
+	(paper "A4" portrait)
+	(title_block
+		(title "aadhuNIK AI Corrections")
+		(date "2026-05-26")
+		(rev "0.5.1.b")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "5")
+		)
+	)
+)

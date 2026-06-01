@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SnapEDA_Footprints") (type "KiCad") (uri "/home/rsdormline/Ki-Cad-Projects/imported components/INMP441ACEZ-R7/SnapEDA_Footprints.pretty") (options "") (descr ""))
+)

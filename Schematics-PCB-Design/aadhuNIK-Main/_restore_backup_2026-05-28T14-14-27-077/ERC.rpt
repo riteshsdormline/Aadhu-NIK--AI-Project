@@ -1,0 +1,26 @@
+ERC report (2026-05-28T13:52:16, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /Root/
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(4050 mils, 10950 mils): Symbol A2 Pin 39 [VSYS, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(5500 mils, 13900 mils): Symbol U9-TMC-L1 Pin 22 [VS, Power input, Line]
+[pin_to_pin]: Pins of type Output and Output are connected
+    ; error
+    @(6200 mils, 4000 mils): Symbol MK1 Pin 2 [SD, Output, Line]
+    @(8600 mils, 4050 mils): Symbol MK2 Pin 2 [SD, Output, Line]
+
+***** Sheet /Balancing-robot/
+
+***** Sheet /19v-12v-5v-convertor/
+
+ ** ERC messages: 3  Errors 3  Warnings 0
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
